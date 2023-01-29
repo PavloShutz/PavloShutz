@@ -3,7 +3,7 @@
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![Flask](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=flask)
-![Sql](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=postgresql)
+![Sql](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=sqlite)
 ![Bootstrap5](https://img.shields.io/badge/-Bootstrap5-090909?style=for-the-badge&logo=bootstrap)
 
 ### Follow me
