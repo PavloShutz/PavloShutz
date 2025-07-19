@@ -12,5 +12,3 @@
 <p align="left">
 <a href="https://www.youtube.com/channel/UCakNP54ab_3Qm8MPdlG4Zag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@zendorr7844" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18814238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18814238" height="30" width="40" /></a>
-  
-- 🔭 I’m currently working on <a href="https://github.com/PavloShutz/english-lab">English Lab</a>
