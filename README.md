@@ -1,10 +1,13 @@
-## Languages and Tools
+# Stack of technologies
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus)
 ![Flask](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=flask)
-![Sql](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=sqlite)
+![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django)
 ![Bootstrap5](https://img.shields.io/badge/-Bootstrap5-090909?style=for-the-badge&logo=bootstrap)
 ![HTML5](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+![Sqlite](https://img.shields.io/badge/-SQLite-090909?style=for-the-badge&logo=sqlite)
+
 
 ## Connect
 <p align="left">
