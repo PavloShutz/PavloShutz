@@ -2,7 +2,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/PavloShutz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="PavloShutz" height="30" width="40" /></a>
+<a href="https://github.com/ShutzPavlo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ShutzPavlo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/павло-щуцький-996687332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="павло-щуцький-996687332" height="30" width="40" /></a>
 <a href="https://discord.gg/zendor1538" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zendor1538" height="30" width="40" /></a>
 <a href="https://t.me/PavloShutz" target="blank"><img align="center" src="https://cdn.simpleicons.org/telegram" alt="zendor1538" height="30" width="40" /></a>
