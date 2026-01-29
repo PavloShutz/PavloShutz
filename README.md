@@ -1,4 +1,4 @@
-# Hi 👋, I'm Pavlo Schutskiy
+# Hi 👋, I'm Pavlo Shchutskyi
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
