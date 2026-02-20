@@ -11,6 +11,9 @@
 ## Tools and skills
 [![My Skills](https://skillicons.dev/icons?i=git,github,linux,bash,obsidian,c,cpp,py,visualstudio,vscode,cmake&theme=dark)](https://skillicons.dev)
 
+## GitHub Stats
+![PavloShutz's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavloShutz&show_icons=true&theme=dark&hide_border=true)
+
 ## Little dashboard 😎
 [![GitHub Streak](https://streak-stats.demolab.com?user=PavloShutz&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D&card_width=1000)](https://git.io/streak-stats)
 
